@@ -103,7 +103,7 @@ footer{
     .section{
     
         box-shadow: none;
-        width: 500px;
+        width: 400px;
         margin:auto;
         display: flex;
         flex-direction: column;

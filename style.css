@@ -112,7 +112,7 @@ footer{
     main{
         box-shadow: 2px 5px 3px rgba(0, 0, 0, 0.5);
         background-color:rgb(255, 236, 213);
-        width: 80%;
+        width: 85%;
         display: flex;
         flex-direction: column;
         align-items: center;
